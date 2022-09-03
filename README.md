@@ -5,3 +5,5 @@
 3. [Flutter with MySql and Php Part 3 Crud Operation Edit and Delete](https://www.youtube.com/watch?v=qZOyYDni4LY)  
 4. [宝可梦收藏flutter app](https://github.com/hungps/flutter_pokedex)
 5. [Flutter 大佬](https://github.com/CarGuo)  
+6. [Taskify](https://github.com/Vaibhav2002/Taskify)  
+7. [Taskly](https://github.com/JobinBiju/Taskly)  
