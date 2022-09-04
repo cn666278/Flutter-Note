@@ -7,4 +7,4 @@
 5. [Flutter Full-Project](https://github.com/CarGuo)  
 6. [Taskify](https://github.com/Vaibhav2002/Taskify)  
 7. [Taskly](https://github.com/JobinBiju/Taskly)  
-8. [Flutter front+backend](https://blog.csdn.net/qq_33957603/article/details/125364020)
+
