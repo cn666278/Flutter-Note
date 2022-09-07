@@ -7,6 +7,8 @@
 4. [Firebase Login - Part 1](https://www.youtube.com/watch?v=gl6wpsgiNfY&t=4s)  
 5. [Firebase Login - Part 2](https://www.youtube.com/watch?v=VMKpt3wXVSs)
 6. [TO-DO LISTS  !!!](https://www.youtube.com/watch?v=KfhBsahIk7w)
+7. [Flutter Local Notifications & Sqflite Explained | Todo APP-Part 2](https://www.bilibili.com/video/BV15q4y1c74e?spm_id_from=333.337.search-card.all.click&vd_source=4a72f95e2a1694bfd8c010db6a72530d)
+8. [Flutter Local Notifications & Sqflite Explained | Todo APP-Part 3](https://www.bilibili.com/video/BV18Z4y1o7Ag?spm_id_from=333.999.0.0)  
 
 ## GitHub Mini-Project
 5. [A guide of the Pokemon - flutter app](https://github.com/hungps/flutter_pokedex)
